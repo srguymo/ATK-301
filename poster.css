@@ -1,0 +1,60 @@
+body {
+
+background-image: url(paper.png);
+background-repeat: no-repeat;
+  background-position: center;
+  border-top:#759497;
+  border-bottom: #759497;
+}
+
+.weirdblue {
+   color: #759497;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+}
+#Topline {
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 5px;
+    border-top: 1px;
+}
+#Bigtext {
+  line-height: 5px;
+   font-size: 60px;
+}
+#Actors {
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 5px;
+}
+#STARRING{
+font-size: 20px;
+font-weight: bold;
+line-height: 3px;
+border-bottom: 1px;
+}
+#written{
+  font-size: 18px;
+  font-weight: bold;
+line-height: 1.2px;
+padding-top: 3px;
+border-bottom: 1px;
+}
+#com {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1.5px;
+}
+#websit {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1px;
+}
+a {
+   color:#759497 ;
+   hover {
+    color: #0000;
+ }
+}
