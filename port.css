@@ -1,0 +1,41 @@
+.topnav {
+  overflow: hidden;
+background-color: #ffbaf0;
+position: fixed; /* Set the navbar to fixed position */
+top: 0; /* Position the navbar at the top of the page */
+width: 200%; /* Full width */ }
+  a{
+    text-decoration: none;
+  }
+.navboi{
+  float: left;
+ display: block;
+ color: pink;
+ text-align: center;
+ padding: 14px 16px;
+ text-decoration: none;
+ display: block;
+}
+.main {
+  margin-top: 30px; /* Add a top margin to avoid content overlay */
+}
+br{
+
+
+}
+.parent {
+display: grid;
+grid-template-columns: repeat(4, 1fr);
+grid-template-rows: repeat(4, 1fr);
+grid-column-gap: 12px;
+grid-row-gap: 12px;
+}
+.please{
+padding:14px;
+
+}
+a{
+  display: block;
+
+  grid-column: 3;
+}
